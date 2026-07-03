@@ -19,3 +19,4 @@ yarn set version stable
 yarn workspace @todo/web node test.js
 yarn workspace @todo/web add -D vite
 yarn workspace @todo/web dev
+git remote set-url origin git@github-transperfect:dnyaneshwargiri510/yarn-pnp-todo-monorepo.git
