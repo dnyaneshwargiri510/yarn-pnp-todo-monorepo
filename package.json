@@ -1,0 +1,7 @@
+{
+  "name": "yarn-pnp-todo-monorepo",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
